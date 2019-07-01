@@ -8,7 +8,7 @@ namespace FizzBuzz {
     class Program {
         static void Main(string[] args) {
 
-            string fbText = "";
+            string fbText;
 
             for (int i = 1; i <= 100; i++ ) {
 
