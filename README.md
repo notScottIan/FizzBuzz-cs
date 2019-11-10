@@ -1,2 +1,4 @@
 # FizzBuzz-cs
-Empty README
+
+A test repository
+Currently testing git integration in visual studio 2019
